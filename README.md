@@ -1,2 +1,4 @@
 # project-ideas
-Ideas
+
+Various Racket-related projects, of differing size and complexity
+
